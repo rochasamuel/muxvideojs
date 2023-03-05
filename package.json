@@ -18,8 +18,13 @@
     "@angular/platform-browser": "^15.2.0",
     "@angular/platform-browser-dynamic": "^15.2.0",
     "@angular/router": "^15.2.0",
+    "@mux/mux-video": "^0.14.0",
+    "@mux/upchunk": "^3.1.0",
+    "@mux/videojs-kit": "^0.11.4",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
+    "video.js": "^8.0.4",
+    "videojs-http-source-selector-2": "^1.1.10",
     "zone.js": "~0.12.0"
   },
   "devDependencies": {
